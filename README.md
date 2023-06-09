@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me
 <div align="center">
-  Hi👋 I'm Hai :)
+  Hi👋 I'm Hai :) <br>
   🌱 My passion lies in <u>Machine Learning</u>, <u>Reinforcement Learning</u> and
-                        <u>Algorithms</u>.
-  🌲 Open to collaborating on any projects!
-  🌴 B.Sc. with Specialization in Computing Science.
+                        <u>Algorithms</u>. <br>
+  🌲 Open to collaborating on any projects! <br>
+  🌴 B.Sc. with Specialization in Computing Science. <br>
   🌾 Graduated from the University of Alberta in April 2023.
  </div>
 
