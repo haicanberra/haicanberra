@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials
 ### 🏢 Works
-[![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/haih-nmyb39h)
+[![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/haih-nmyb39h) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com) 
 
 ### 🏗️ Developers/Forums
 <!-- https://codeforces.com/profile/Scriptol -->
