@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me
 🌟 Hi, I'm Hai :)  
+  
 🌱 My passion lies in <ins>Machine Learning</ins>, <ins>Reinforcement Learning</ins> and <ins>Algorithms</ins>.  
 🌲 Open to collaborating on any projects!  
 🌴 B.Sc. with Specialization in Computing Science.  
