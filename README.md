@@ -12,8 +12,8 @@
 🌴 B.Sc. with Specialization in Computing Science.  
 🌾 Graduated from the University of Alberta in April 2023.  
 
-![stat1](https://github-readme-stats.vercel.app/api?username=haicanberra&theme=transparent&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
-![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=haicanberra&theme=transparent&hide_border=false&include_all_commits=true&langs_count=8&count_private=true&layout=compact)
+![stat1](https://github-readme-stats.vercel.app/api?username=haicanberra&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
+![stat2](https://github-readme-stats.vercel.app/api/top-langs/?username=haicanberra&theme=transparent&hide_border=true&include_all_commits=true&langs_count=8&count_private=true&layout=compact)
 
 
 ![snake gif](https://github.com/haicanberra/haicanberra/blob/output/github-contribution-grid-snake.svg)
