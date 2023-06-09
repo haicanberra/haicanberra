@@ -18,6 +18,7 @@ Here are some ideas to get you started:
   
 🌱 My passion lies in <ins>Machine Learning</ins>, <ins>Reinforcement Learning</ins> and <ins>Algorithms</ins>.  
 🌲 Open to collaborating on any projects!  
+  
 🌴 B.Sc. with Specialization in Computing Science.  
 🌾 Graduated from the University of Alberta in April 2023.  
 
