@@ -16,6 +16,6 @@
 ## 🌏 Socials
 [![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/haih-nmyb39h) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com)
   
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=haicanberra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haicanberra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="300px" src="https://github-readme-stats.vercel.app/api?username=haicanberra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"> <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haicanberra&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 
