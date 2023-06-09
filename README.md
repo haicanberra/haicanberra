@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   
 🌴 B.Sc. with Specialization in Computing Science.  
 🌾 Graduated from the University of Alberta in April 2023.  
+  
 [![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io)
 
 
