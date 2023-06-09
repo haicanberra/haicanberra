@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me
-<div align="center">
-  Hi👋 I'm Hai :) <br>
+  Hi👋 I'm Hai :)
   🌱 My passion lies in <u>Machine Learning</u>, <u>Reinforcement Learning</u> and
-                        <u>Algorithms</u>. <br>
-  🌲 Open to collaborating on any projects! <br>
-  🌴 B.Sc. with Specialization in Computing Science. <br>
+                        <u>Algorithms</u>.
+  🌲 Open to collaborating on any projects!
+  🌴 B.Sc. with Specialization in Computing Science.
   🌾 Graduated from the University of Alberta in April 2023.
- </div>
 
 
 ## 🌐 Socials
