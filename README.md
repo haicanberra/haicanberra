@@ -4,7 +4,7 @@
 <!-- **haicanberra/haicanberra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 🌟 Hi, I'm Hai :)  
-[![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/haih-nmyb39h) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com) [![](https://visitcount.itsvg.in/api?id=haicanberra&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/haih-nmyb39h) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com) ![](https://komarev.com/ghpvc/?username=haicanberra&style=for-the-badge&label=Views&color=yellow)
   
 🌱 My passion lies in <ins>Machine Learning</ins>, <ins>Reinforcement Learning</ins> and <ins>Algorithms</ins>.  
 🌲 Open to collaborating on any projects!  
