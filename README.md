@@ -15,7 +15,7 @@
 ![stat1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haicanberra&show_icons=true&theme=transparent&hide_border=true&show_total_reviews=true&include_all_commits=true&rank_icon=github)
 ![stat2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haicanberra&langs_count=8&layout=compact&theme=transparent&hide_border=true)
 <!-- ](url)](url)![snake gif](https://github.com/haicanberra/haicanberra/blob/output/github-contribution-grid-snake.svg) -->
-![stat3](https://github-readme-activity-graph.vercel.app/graph?username=haicanberra&theme=github-compact)
+<!-- ![stat3](https://github-readme-activity-graph.vercel.app/graph?username=haicanberra&theme=github-compact) -->
 
 
 
