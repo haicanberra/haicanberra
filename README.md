@@ -6,8 +6,8 @@
 # 🌟 Hi, I'm Hai :)  
 [![▲ PORTFOLIO](https://img.shields.io/badge/▲_PORTFOLIO-ffffff?style=for-the-badge)](https://haicanberra.github.io) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manhhaihoang) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haicanberra@gmail.com) ![](https://komarev.com/ghpvc/?username=haicanberra&style=for-the-badge&label=VIEWS&color=yellow)
 
-🌱 My passion lies in <ins>Network Science</ins> and its applications in various fields.  
-🌲 Open to collaborating on any projects!  
+🌱 Interested in Machine Learning, Network Science, their theory and humanitarian applications.  
+🌲 Open to collaborating on any projects! 
   
 🌴 B.Sc. with Specialization in Computing Science.  
 🌾 Graduated from the University of Alberta in June 2023.  
